@@ -1,0 +1,10 @@
+
+1) 
+Webservices zijn eigenlijk een vorm om verschillende apllicaties met elkaar te laten communiceren. Dit kan via SOAP of REST. SOAP gebeurd via XML en REST via JSON. Beiden zijn egenlijk uiteindelijk gewoon tekst.
+
+Eigenlijk is het de applicatie opsplitsen in verschillende service dia dan samen kunnen werken.
+
+2)
+SOA (Service Oriented Architecture) is een architectuur die probeert
+simpele en losgekoppelde systemen te bouwen door verschillende
+services te combineren tot een samenhanged resultaat
